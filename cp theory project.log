@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\university\computerprogramming\cp theory\project\cp theory project\cp theory project\source.cpp(338): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\university\computerprogramming\cp theory\project\cp theory project\cp theory project\source.cpp(347): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\university\computerprogramming\cp theory\project\cp theory project\cp theory project\source.cpp(356): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\university\computerprogramming\cp theory\project\cp theory project\cp theory project\source.cpp(365): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  cp theory project.vcxproj -> D:\University\ComputerProgramming\cp theory\project\cp theory project\Debug\cp theory project.exe
